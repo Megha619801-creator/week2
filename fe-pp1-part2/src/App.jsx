@@ -50,7 +50,7 @@ function App() {
   number="0123456789016982"
   expirationMonth={12}
   expirationYear={2019}
-  bank="Nameof the Bank"
+  bank="Name of the Bank"
   owner="Firstname Lastname"
   bgColor="#ddbb55"
   color="white" 

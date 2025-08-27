@@ -11,7 +11,7 @@ function App() {
     firstName='John'
     gender='male'
     height={176}
-    birth={new Date("1992-07-14")}
+    birth={new Date("1992 -07 -14")}
     picture="https://randomuser.me/api/portraits/men/44.jpg"
   />
 
